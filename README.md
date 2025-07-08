@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @josh-unify
+### Hi there - 👋 I’m @josh-unify
 - 👀 I’m interested in eCommerce and fulfilment 
-- 🌱 I’m currently learning about 3PL, Warehousing, and how software makes lorryloads of goods appear and disappear
-- 📫 How to reach me josh@unifysoftware.com
+- 🌱 I’m currently learning about PHP, CMS, and EDI
+- 💬 Ask me about: eComm integrations, Shopify, and WMS
+
+
+#### 📫 How to reach me
+
+- [Email](mailto:josh@unifysoftware.com?subject=Hi%20Josh&body=Hi%20there,)
+- [LinkedIn](www.linkedin.com/in/joshua-dean-8565b847)
 
 <!---
 josh-unify/josh-unify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
