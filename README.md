@@ -7,7 +7,6 @@
 #### 📫 How to reach me
 
 - [Email](mailto:josh@unifysoftware.com?subject=Hi%20Josh&body=Hi%20there,)
-- [LinkedIn](www.linkedin.com/in/joshua-dean-8565b847)
 
 <!---
 josh-unify/josh-unify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
